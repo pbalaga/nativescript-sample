@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="V:\OwnProjects\nativescript-sample\platforms\android\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="V:\OwnProjects\nativescript-sample\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-recyclerview-v7-23.4.0_7c864d6b2d7f07d77d86387176fc2c63f945590e.jar" />
+    </item>
+    <item
+        jar="V:\OwnProjects\nativescript-sample\platforms\android\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="V:\OwnProjects\nativescript-sample\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-appcompat-v7-23.4.0_b607228ef8b1998e6204d894c2891418f0bd12cd.jar" />
+    </item>
+    <item
+        jar="V:\OwnProjects\nativescript-sample\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="V:\OwnProjects\nativescript-sample\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-v4-23.4.0_0648946b308e17f4ae8024638f785e9f60a8d0f2.jar" />
+    </item>
+    <item
+        jar="V:\OwnProjects\nativescript-sample\platforms\android\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="V:\OwnProjects\nativescript-sample\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-vector-drawable-23.4.0_3464cb3374faae205855659ed1bd4128bd8ff976.jar" />
+    </item>
+    <item
+        jar="V:\OwnProjects\nativescript-sample\platforms\android\build\intermediates\exploded-aar\nativescriptsample2\runtime\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="632bf39700c28ba66c117628dab343126ef89551">
+        <dex dex="V:\OwnProjects\nativescript-sample\platforms\android\build\intermediates\pre-dexed\F0\debug\nativescriptsample2-runtime-unspecified_36be35f61885bff4414d43a84e9ff1d561939422.jar" />
+    </item>
+    <item
+        jar="V:\OwnProjects\nativescript-sample\platforms\android\build\intermediates\exploded-aar\widgets-release\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="8a73b09319cc3945912970487ced4c7724acc97d">
+        <dex dex="V:\OwnProjects\nativescript-sample\platforms\android\build\intermediates\pre-dexed\F0\debug\intermediates-exploded-aar-widgets-release_25657d505273705f7ca299ca95fcb5bfa1db2399.jar" />
+    </item>
+    <item
+        jar="V:\OwnProjects\nativescript-sample\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="V:\OwnProjects\nativescript-sample\platforms\android\build\intermediates\pre-dexed\F0\debug\internal_impl-23.4.0_677097566d81cee35d13b98a14048c79df419f6a.jar" />
+    </item>
+    <item
+        jar="V:\OwnProjects\nativescript-sample\platforms\android\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="V:\OwnProjects\nativescript-sample\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-animated-vector-drawable-23.4.0_128fd13f62607c6ba2ca3ad90b64847294866893.jar" />
+    </item>
+    <item
+        jar="V:\OwnProjects\nativescript-sample\platforms\android\build\intermediates\exploded-aar\nativescriptsample2\runtime\unspecified\jars\libs\binding-generator.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d82f3ca98719f09b65db6aeaf450ad3bafc46e81">
+        <dex dex="V:\OwnProjects\nativescript-sample\platforms\android\build\intermediates\pre-dexed\F0\debug\binding-generator_c8c9e935eafab3dbc615d51857f9376c3a9e48a7.jar" />
+    </item>
+    <item
+        jar="C:\Program Files\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="V:\OwnProjects\nativescript-sample\platforms\android\build\intermediates\pre-dexed\F0\debug\support-annotations-23.4.0_4bc2f5f4c52b7856b2e2adeb931a4ded186ea1c6.jar" />
+    </item>
+    <item
+        jar="V:\OwnProjects\nativescript-sample\platforms\android\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="V:\OwnProjects\nativescript-sample\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-design-23.4.0_071f443a7e5f28370af5f2d4e4b98aec6120bfc4.jar" />
+    </item>
+
+</items>
